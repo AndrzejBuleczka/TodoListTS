@@ -1,5 +1,7 @@
 # New Project
 
+TodoList App done to train TypeScript together with Web Dev Simplified [Tutorial](https://youtu.be/jBmrduvKl5w)
+
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
 ## Available Scripts
